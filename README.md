@@ -59,7 +59,8 @@ A passionate full-stack developer from India. 🚀
 ---
 
 ### 📊 GitHub Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit1419&show_icons=true&theme=tokyonight)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit1419&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1419&layout=compact&theme=tokyonight)
 
