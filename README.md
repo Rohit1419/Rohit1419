@@ -18,10 +18,10 @@
 - 🔭 I’m currently working on **TechMaven**
 - 🌱 Learning **MERN Stack & Machine Learning**
 - 👯 Looking to collaborate on **TechMaven**
-- 👨‍💻 All my projects are available at [Portfolio](https://#)
+- 👨‍💻 All my projects are available at [Portfolio](https://portfolio-sigma-topaz-62.vercel.app/)
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
 - 📫 Reach me at: **rohitgite03@gmail.com**
-- 📄 Check my [Resume](https://#)
+- 📄 Check my [Resume](https://resume-eta-ashen.vercel.app/)
 - ⚡ Fun fact: *When I'm not coding, I'm experimenting in the kitchen, perfecting recipes!* 🍳
 
 ---
