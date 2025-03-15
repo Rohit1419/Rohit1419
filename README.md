@@ -37,6 +37,9 @@
   <a href="https://github.com/Rohit1419">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://buymeacoffee.com/rohitgite">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CB4F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
 ---
