@@ -16,7 +16,7 @@
 
 ## 🌟 **About Me**
 - 🔭 I’m currently working on **SynapseLMS**
-- 🌱 Learning **backend Development & Den AI**
+- 🌱 Learning **backend Development & Gen AI**
 - 👯 Looking to collaborate on **SynapseLMS**
 - 👨‍💻 All my projects are available at [Portfolio](https://portfolio-sigma-topaz-62.vercel.app/)
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
