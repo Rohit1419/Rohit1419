@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Rohit Gite! 👋</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from India 🚀</h3>
+<h3 align="center">🚀 Backend Developer | Cheff by Passion 🍳  </h3>
 
 <!-- Animated Typing -->
 <p align="center">
@@ -18,8 +18,8 @@
 - 🔭 I’m currently working on **SynapseLMS**
 - 🌱 Learning **backend Development & Gen AI**
 - 👯 Looking to collaborate on **SynapseLMS**
-- 👨‍💻 All my projects are available at [Portfolio](https://portfolio-sigma-topaz-62.vercel.app/)
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
+- 👨‍💻 All my projects are available at [Portfolio](https://rohitgit.dev)
+- 💬 Ask me about **MongoDB, SQL, Express.js, React.js, Node.js**
 - 📫 Reach me at: **rohitgite03@gmail.com**
 - 📄 Check my [Resume](https://resume-eta-ashen.vercel.app/)
 - ⚡ Fun fact: *When I'm not coding, I'm experimenting in the kitchen, perfecting recipes!* 🍳
