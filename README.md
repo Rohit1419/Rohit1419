@@ -4,7 +4,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+cool+things!;Full+Stack+Developer;Learning+Machine+Learning!;MERN+Stack+Enthusiast;Coding+is+Love!+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+cool+things!;Backend+Developer;Making+AI+Applications;Coding+is+Love!+💻" />
 </p>
 
 <!-- Profile Views Counter -->
