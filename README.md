@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Rohit Gite! 👋</h1>
-<h3 align="center">🚀 Backend Developer | Cheff by Passion 🍳  </h3>
+<h3 align="center">🚀 Backend Developer | Chef by Passion 🍳  </h3>
 
 <!-- Animated Typing -->
 <p align="center">
