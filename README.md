@@ -1,94 +1,82 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Rohit Gite! 👋</h1>
-<h3 align="center">🚀 Backend Developer | Chef by Passion 🍳  </h3>
-
-<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+things!;Backend+Developer;Building+AI+workflows;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<!-- Profile Views Counter -->
+<h1 align="center"> ⚡ ROHIT GITE ⚡ </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohit1419&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b>Backend Developer | AI Architect | Culinary Experimentalist</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ff84&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends;Architecting+AI+Workflows;Perfecting+Kitchen+Recipes;" />
 </p>
 
 ---
 
-## 🌟 **About Me**
-- 🔭 I’m currently working on **SynapseLMS**
-- 🌱 Learning **backend Development & Gen AI**
-- 👯 Looking to collaborate on **SynapseLMS**
-- 👨‍💻 All my projects are available at [Portfolio](https://rohitgit.dev)
-- 💬 Ask me about **MongoDB, SQL, Express.js, React.js, Node.js**
-- 📫 Reach me at: **rohitgite03@gmail.com**
-- 📄 Check my [Resume](https://resume-eta-ashen.vercel.app/)
-- ⚡ Fun fact: *When I'm not coding, I'm experimenting in the kitchen, perfecting recipes!* 🍳
+### 🕹️ SYSTEM_INFO
+<table width="100%">
+  <tr>
+    <td width="50%" style="border: 2px solid #000; box-shadow: 4px 4px 0px #00ff84;">
+      <ul>
+        <li>🔭 <b>Current Mission:</b> Scaling <a href="https://rohitgit.dev">SynapseLMS</a></li>
+        <li>🌱 <b>Learning:</b> Agentic AI & Model Context Protocol (MCP)</li>
+        <li>👯 <b>Collaboration:</b> Open for Open Source & SaaS MVPs</li>
+        <li>⚡ <b>Fun Fact:</b> I treat code like a recipe—precision is everything.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" style="border: 2px solid #000; box-shadow: 4px 4px 0px #00ff84;">
+      <p><b>VISITOR_COUNT</b></p>
+      <img src="https://komarev.com/ghpvc/?username=Rohit1419&label=SESSIONS&color=00ff84&style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 **Connect With Me**
+### 🛠️ TECH_STACK
+> **Languages & Core**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00ff84" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000" />
+</p>
+
+> **Backend & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=00ff84" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=000" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000" />
+</p>
+
+---
+
+### 📡 CONNECT_WITH_ME
 <p align="center">
   <a href="https://x.com/RohitGite19">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white&border=2px&labelColor=00ff84" />
   </a>
   <a href="https://www.linkedin.com/in/rohit-g-955391250/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
   </a>
-  <a href="https://github.com/Rohit1419">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://rohitgit.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00ff84?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=ffffff" />
   </a>
-  <a href="https://buymeacoffee.com/rohitgite">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CB4F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <a href="mailto:rohitgite03@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://resume-eta-ashen.vercel.app/">
+    <img src="https://img.shields.io/badge/%5B_DOWNLOAD_RESUME_%5D-000000?style=for-the-badge&labelColor=00ff84&logo=read-the-docs&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 🛠️ **Languages & Tools**
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Web Technologies**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Developer Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **Databases & ORM**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### **Deployment**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit1419&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <i>"Code is like cooking; you can't just follow the recipe, you have to taste the salt."</i><br>
+  <b>Happy Coding! 🍳🔥</b>
 </p>
-
-### 🎯 **Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1419&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit1419&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-
----
-
-⭐️ **Feel free to explore my repositories and contribute!**  
