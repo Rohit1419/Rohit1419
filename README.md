@@ -2,27 +2,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="280" style="object-fit: cover; border: 5px solid #000;" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&pause=1000&color=00d9ff&center=true&vCenter=true&width=700&height=100&lines=ROHIT+GITE;BACKEND+DEV;" alt="Rohit Gite" />
 </p>
 
 <p align="center">
   <b>Building Scalable Backends & Agent Workflows</b><br> <br>
   <img src="https://komarev.com/ghpvc/?username=Rohit1419&label=SESSIONS_LOGGED&color=00d9ff&style=flat-square" />
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00d9ff?style=for-the-badge&logo=statuspage&logoColor=black" />
   <img src="https://img.shields.io/badge/MOOD-DEBUGGING-white?style=for-the-badge&logo=coffee&logoColor=black" />
-</div>
+</div> -->
 
 ---
 
-<div align="center">
-
+ <div align="center">
+<!--
 ### 🕹️ SYSTEM_DASHBOARD
 
-<table width="900" style="border-collapse: collapse;">
+ <table width="900" style="border-collapse: collapse;">
   <tr style="background-color: #000; border: 4px solid #000;">
     <td colspan="2" style="padding: 10px;">
        <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span> 
@@ -49,7 +49,7 @@
       </table>
     </td>
   </tr>
-</table>
+</table> 
 
 <br><br>
 
@@ -85,6 +85,8 @@
 
 <br><br>
 
+-->
+
 ### 🐍 CONTRIBUTIONS
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rohit1419/Rohit1419/output/github-contribution-grid-snake-dark.svg" width="900" style="border: 3px solid #000; background-color: #0d1117;" />
@@ -92,7 +94,7 @@
 
 <br><br>
 
-### 📡 CONNECT_SESSIONS
+ <!--  ### 📡 CONNECT_SESSIONS
 
 <table width="900" style="border-collapse: collapse;">
   <tr style="background-color: #000; border: 4px solid #000;">
@@ -124,6 +126,8 @@
 </table>
 
 <br><br>
+
+ --> 
 
 ---
 
